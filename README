@@ -1,0 +1,7 @@
+Open the directory, currently visible in the Finder, in iTerm.
+open cd-to-in-iTerm.scpt in the AppleScript-Editor, save it as an .app and drop it onto the Finder's toolbar. You can change the toolbar icon by copying the desired image and pasting it in the icon box after right-clicking cd-to-in-iTerm.app and choosing "Get Info".
+
+
+I made this small script with the help of http://hintsforums.macworld.com/showthread.php?t=86703 and http://hints.macworld.com/article.php?story=20031203102553678.
+
+Tested under Mac OS X 10.6.6.
